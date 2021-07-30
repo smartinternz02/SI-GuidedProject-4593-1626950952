@@ -31,3 +31,6 @@ In this project we have used Convolutional Neural Networks(CNN) to train a model
 - IBM Watson Studio
 - Jupyter Notebook
 - Spyder
+
+## Link to the feedback video
+https://drive.google.com/file/d/16lmH6RwIzd5seVGTT9BkoViHj5D9dgwx/view?usp=sharing
